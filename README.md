@@ -1,3 +1,3 @@
 # Ecommerce-Project
-Ecommerce project usin Spring boot
+Ecommerce project using Spring boot
 
