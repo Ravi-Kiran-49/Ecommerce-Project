@@ -1,3 +1,3 @@
 # Ecommerce-Project
-Ecommerce
+E-Commerce Application
 
